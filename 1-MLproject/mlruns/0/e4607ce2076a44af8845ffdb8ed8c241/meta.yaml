@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e4607ce2076a44af8845ffdb8ed8c241/artifacts
+end_time: 1736071097639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4607ce2076a44af8845ffdb8ed8c241
+run_name: magnificent-fish-916
+run_uuid: e4607ce2076a44af8845ffdb8ed8c241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736071010125
+status: 4
+tags: []
+user_id: coldbrew

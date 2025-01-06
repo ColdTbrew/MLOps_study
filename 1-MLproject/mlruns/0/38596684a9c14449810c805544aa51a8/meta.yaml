@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/38596684a9c14449810c805544aa51a8/artifacts
+deleted_time: 1736071024540
+end_time: 1736068740933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 38596684a9c14449810c805544aa51a8
+run_name: amusing-stork-311
+run_uuid: 38596684a9c14449810c805544aa51a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736068200829
+status: 4
+tags: []
+user_id: coldbrew
