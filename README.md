@@ -4,8 +4,7 @@
 1. Core components of mlflow
     
     DS 프로젝트의 사이클
-    
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/70275f66-444c-41c9-81d7-50304dada995/b0204a1b-c2ca-4495-8809-6f3777e647da/image.png)
+
     
     1. Data Preparation
     - ETL 파이프라인, DB에서 데이터 가져오기
