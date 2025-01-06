@@ -1,5 +1,5 @@
 /venv
-/mlruns
-/mlartifacts
+mlruns/
+mlartifacts/
 1-MLproject/mlartifacts/
 1-MLproject/mlruns/
